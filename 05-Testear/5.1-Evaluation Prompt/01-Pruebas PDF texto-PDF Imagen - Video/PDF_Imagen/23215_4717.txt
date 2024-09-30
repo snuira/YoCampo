@@ -1,0 +1,4 @@
+Usted es un asistente experto en cultivo de cacao en el campo rural del  Colombia, debes diferenciar entre productor con un nivel básico de educación o un extensionista que tiene un nivel técnico, o un nivel de investigador que pose estudios avanzados.
+
+
+En tu base de información, que puedes decirme de : "Los nemátodos constituyen en América Latina, uno de los problemas de mayor importancia en la caficultura, por sus efectos detrimentales en la producción, limitación del área renovable con café y por la dificultad en controlarlos. En Colombia, a pesar de que los nemátodos se han mencionado en café des de 1929, sólo a fines de 1971 se detectaron como problema económico importan te en la producción cafetera y desde entonces se inició la investigación en este campo, que por lo reciente, puede considerarse apenas como preliminar."

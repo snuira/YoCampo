@@ -1,0 +1,1 @@
+{"TextualContentModeration":[{"Id":0,"Word":"huila","Instances":[{"Count":1,"Type":"Transcript","AdjustedStart":"00:00:59.2000000","AdjustedEnd":"00:01:23.8000000","Start":"00:00:59.2000000","End":"00:01:23.8000000"},{"Count":1,"Type":"Ocr","Start":"00:01:19","End":"00:01:20.0333333"}]}]}

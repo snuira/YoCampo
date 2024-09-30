@@ -1,0 +1,5 @@
+﻿displayName,parentRunId,status,createdTime,favorite,duration,createdBy,computeTarget,runType,tags
+"register_ml","522c8827-8f7f-4888-bf1e-5cdb12e11e27","Completed","""2024-07-16T00:52:17.690Z""",false,"30.723s","Victor Manuel Mondragon Maca","Serverless","azureml.StepRun","{}"
+"update_acs","522c8827-8f7f-4888-bf1e-5cdb12e11e27","Completed","""2024-07-16T00:44:22.042Z""",false,"449.254s","Victor Manuel Mondragon Maca","Serverless","azureml.StepRun","{}"
+"crack_chunk_embed","522c8827-8f7f-4888-bf1e-5cdb12e11e27","Completed","""2024-07-15T17:32:51.682Z""",false,"25682.49s","Victor Manuel Mondragon Maca","Serverless","azureml.StepRun","{}"
+"522c8827-8f7f-4888-bf1e-5cdb12e11e27","null","Completed","""2024-07-15T17:32:48.490Z""",false,"26423.908s","Victor Manuel Mondragon Maca","null","azureml.PipelineRun","{""__AddYourDataIngestionJob__"":"""",""indexscacao"":"""",""__JobOrigin__"":""Workspace 2.0""}"

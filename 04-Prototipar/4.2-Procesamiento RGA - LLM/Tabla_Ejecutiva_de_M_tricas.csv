@@ -1,0 +1,10 @@
+Métrica,Mínimo,Máximo,Último
+Documentos PDF Procesados,1,956,956
+Documentos Fragmentados (Chunked Documents),708,36651,36651
+Documentos Crackeados (Cracked Documents),161,38863,38863
+Documentos Eliminados (Deleted Documents),0,0,0
+Fuentes Eliminadas (Deleted Sources),0,0,0
+Documentos Embebidos (Documents Embedded),100,36651,36651
+Documentos Reutilizados (Documents Reused),0,0,0
+Documentos Totales (Documents Total),100,36651,36651
+Fuentes Procesadas (Processed Sources),9,854,854

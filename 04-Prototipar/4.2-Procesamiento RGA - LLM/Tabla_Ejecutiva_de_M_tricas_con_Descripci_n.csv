@@ -1,0 +1,10 @@
+Métrica,Mínimo,Máximo,Último,Descripción
+Documentos PDF Procesados,1,956,956,Número de documentos PDF procesados
+Documentos Fragmentados (Chunked Documents),708,36651,36651,Número de fragmentos generados a partir de los documentos
+Documentos Crackeados (Cracked Documents),161,38863,38863,Número total de documentos crackeados
+Documentos Eliminados (Deleted Documents),0,0,0,Número de documentos eliminados durante el proceso
+Fuentes Eliminadas (Deleted Sources),0,0,0,Número de fuentes eliminadas durante el proceso
+Documentos Embebidos (Documents Embedded),100,36651,36651,Número de documentos cuyos embeddings se generaron
+Documentos Reutilizados (Documents Reused),0,0,0,Número de documentos para los cuales se reutilizaron embeddings
+Documentos Totales (Documents Total),100,36651,36651,Número total de documentos procesados
+Fuentes Procesadas (Processed Sources),9,854,854,Número de fuentes de documentos procesadas

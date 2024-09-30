@@ -1,0 +1,80 @@
+{
+  "question": "¿Cuáles son las principales zonas productoras de cacao en Colombia?",
+  "ground_truth": "Las principales zonas productoras de cacao en Colombia incluyen Santander, Antioquia, Huila, Nariño y Tolima.",
+  "answer": "Las principales regiones para la producción de cacao son Santander, Antioquia, Huila y Nariño.",
+  "context": "En Colombia, Santander, Antioquia y Huila son conocidas por sus condiciones favorables para el cultivo de cacao, contribuyendo significativamente a la producción nacional.",
+  "latency": 150,
+  "answer_length": 85
+}
+{
+  "question": "¿Qué características tienen los suelos del Nordeste Antioqueño para el cultivo de cacao?",
+  "ground_truth": "Los suelos del Nordeste Antioqueño son bien drenados, ácidos y ricos en materia orgánica, favoreciendo la producción de cacao.",
+  "answer": "Los suelos son bien drenados y ácidos, lo que apoya el cultivo de cacao.",
+  "context": "En el Nordeste Antioqueño, los suelos son bien drenados y ácidos, lo que los hace ideales para el cultivo de cacao, especialmente en sistemas con manejo adecuado del agua.",
+  "latency": 160,
+  "answer_length": 90
+}
+{
+  "question": "¿Cuáles son los beneficios de los sistemas agroforestales en el cultivo de cacao?",
+  "ground_truth": "Los sistemas agroforestales mejoran la biodiversidad, retienen la humedad del suelo y favorecen el desarrollo del cacao.",
+  "answer": "Los sistemas agroforestales mejoran la fertilidad del suelo y proporcionan sombra, reduciendo el estrés hídrico en las plantas de cacao.",
+  "context": "Los sistemas agroforestales se utilizan para mejorar la producción de cacao al mejorar la fertilidad del suelo y proporcionar sombra, lo que ayuda a reducir el estrés hídrico.",
+  "latency": 170,
+  "answer_length": 112
+}
+{
+  "question": "¿Cómo se controla la moniliasis en el cultivo de cacao?",
+  "ground_truth": "La moniliasis se controla mediante podas, fungicidas y métodos de control biológico.",
+  "answer": "La moniliasis se controla con podas, productos biológicos y monitoreo constante de la plantación.",
+  "context": "Moniliophthora roreri es un hongo que causa la moniliasis, una enfermedad importante del cacao en Colombia. Los métodos de control incluyen podas regulares, productos biológicos y monitoreo constante.",
+  "latency": 145,
+  "answer_length": 108
+}
+{
+  "question": "¿Qué prácticas culturales se recomiendan para el manejo de Monalonion en el cacao?",
+  "ground_truth": "Las prácticas recomendadas incluyen la eliminación de ramas infectadas y la aplicación de métodos de control biológico.",
+  "answer": "Se recomienda eliminar las ramas infectadas y utilizar trampas para controlar la plaga.",
+  "context": "Monalonion es una plaga en los cultivos de cacao, y las prácticas culturales eficaces incluyen la eliminación de ramas infectadas y el uso de trampas para controlar la población de plagas.",
+  "latency": 135,
+  "answer_length": 96
+}
+{
+  "question": "¿Qué técnicas de manejo integrado de plagas se utilizan en el cultivo de cacao?",
+  "ground_truth": "El manejo integrado de plagas en cacao implica el uso de control biológico, rotación de cultivos y trampas.",
+  "answer": "El control biológico, las trampas y la rotación de cultivos se utilizan en el manejo integrado de plagas en el cacao.",
+  "context": "El manejo integrado de plagas en cacao involucra el uso de controles biológicos, rotación de cultivos y trampas para mantener las poblaciones de plagas en niveles manejables.",
+  "latency": 140,
+  "answer_length": 105
+}
+{
+  "question": "¿Qué es la escoba de bruja en el cacao y cómo se previene?",
+  "ground_truth": "La escoba de bruja se controla mediante fungicidas y la eliminación de partes infectadas de la planta.",
+  "answer": "La escoba de bruja es una enfermedad fúngica, se maneja con podas y fungicidas.",
+  "context": "La escoba de bruja es una enfermedad fúngica que afecta las plantas de cacao, generalmente se maneja con podas regulares y la aplicación de fungicidas en las áreas infectadas.",
+  "latency": 130,
+  "answer_length": 80
+}
+{
+  "question": "¿Cuáles son las buenas prácticas agrícolas (BPA) en el cultivo de cacao?",
+  "ground_truth": "Las buenas prácticas agrícolas incluyen la rotación de cultivos, el manejo de plagas y la conservación del agua.",
+  "answer": "Las BPA involucran la rotación de cultivos, el manejo de plagas y el uso eficiente del agua.",
+  "context": "Las Buenas Prácticas Agrícolas (BPA) en cacao incluyen la rotación de cultivos, el manejo adecuado de plagas y técnicas de conservación del agua para sostener la productividad y mejorar la calidad.",
+  "latency": 155,
+  "answer_length": 88
+}
+{
+  "question": "¿Por qué es importante la trazabilidad en la cadena de suministro del cacao?",
+  "ground_truth": "La trazabilidad garantiza la calidad y verifica el origen del cacao, facilitando el comercio internacional.",
+  "answer": "La trazabilidad garantiza la calidad y la verificación del origen, importantes para los mercados de exportación.",
+  "context": "Los sistemas de trazabilidad son cruciales en la cadena de suministro del cacao para garantizar la calidad del producto y verificar los orígenes de los granos de cacao, especialmente para los mercados internacionales.",
+  "latency": 165,
+  "answer_length": 91
+}
+{
+  "question": "¿Cómo afecta la sombra de los árboles a la productividad del cacao?",
+  "ground_truth": "La sombra de los árboles ayuda a regular la temperatura y reduce el estrés hídrico, mejorando la productividad del cacao.",
+  "answer": "La sombra reduce el estrés hídrico y regula la temperatura, lo que aumenta la productividad del cacao.",
+  "context": "La productividad del cacao se beneficia de la sombra proporcionada por los árboles, lo que ayuda a regular la temperatura y reducir la necesidad de riego.",
+  "latency": 150,
+  "answer_length": 97
+}
