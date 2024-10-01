@@ -4,7 +4,6 @@ Desarrollo de una aplicación basada en inteligencia artificial generativa (IAG)
 Resumen
 YoCAMPO es una aplicación multiplataforma que utiliza inteligencia artificial generativa y visión artificial para ofrecer asistencia personalizada en el sector agropecuario. Está diseñada para proporcionar información actualizada y detallada sobre cultivos, técnicas agrícolas, cuidado animal, plagas, enfermedades, condiciones climáticas y tendencias de mercado. La aplicación permite a los usuarios hacer preguntas y recibir respuestas precisas, generando reportes personalizados que facilitan la toma de decisiones y mejoran las prácticas agropecuarias.
 
-¡Claro! A continuación, te presento el contenido del `README.md` para tu proyecto **YoCAMPO**, formateado en Markdown para que puedas utilizarlo directamente en tu repositorio de GitHub.
 
 ---
 
