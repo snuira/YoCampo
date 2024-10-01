@@ -223,7 +223,9 @@ Este proyecto está bajo la **Licencia MIT** - ver el archivo [LICENSE](LICENSE)
 
 Para consultas o soporte, por favor contacta a:
 
-- **Correo electrónico:** victor.mondragon@adr.gov.co
+- **Correos electrónicos:** victor.mondragon@adr.gov.co
+-                         ** jovallem@agrosavia.co
+-  Jefe Oficina TIC UPRA: luzmery.gomez@upra.gov.co                   
 - **Sitio web:** [www.yocampo.com](https://upra.gov.co/es-co/Paginas/snuira.aspx)
 
 ---
